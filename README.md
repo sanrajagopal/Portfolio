@@ -18,5 +18,10 @@ A capstone project predicting flight delays/status from historical flight data, 
 
 **My role:** Contributed across all parts of the project — data pipeline, modeling, and analysis — as part of the collaborative team.
 
+### [Covid19 Data Exploration](https://github.com/sanrajagopal/Covid)
+An exploration of covid19 during the height of the pandemic using SQL. 
+
+**Tech:** SQL, Tableau
+
 ## Skills
 Python · R · SAS · SQL · Tableau · Power BI · Statistical Modeling · ARIMA Forecasting
